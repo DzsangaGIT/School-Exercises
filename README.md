@@ -1,6 +1,6 @@
 # School-Exercises
 
-﻿# 1. Feladat 
+﻿1. Feladat 
 A Repülő Kacsa légitársaság levelező szolgáltatásával saját e-mail fiókot hozhatunk létre. 
 A fiók létrehozásakor megadjuk a teljes nevünket és a születési évünket, majd ezekből a rendszer generál egy javasolt e-mail címet a következőképpen:
 
@@ -18,7 +18,7 @@ Példa:
 Input: 'Nagy Péter Imre', 1966
 Return: 'nagpetimr6@kacsa.hu'
 
-#2. feladat: Egyszámjáték
+2. feladat: Egyszámjáték
 Kati két  barátnőjével egyszámjátékot játszik. Ennek a lényege, hogy mindenki választ magának egy-egy pozitív egész számot, és az nyer, 
 aki a legnagyobb olyan számot választotta, amit senki más.
 
@@ -26,12 +26,12 @@ aki a legnagyobb olyan számot választotta, amit senki más.
 és ezek közül visszaadja a legnagyobb olyan számot, amely ismétlődés nélkül szerepel a tömbben!
 Amennyiben nincs olyan szám, amit csak egy valaki tippelt, a függvény térjen vissza -1-gyel!
 
-##Példa:
+Példa:
 
-###Input: [100, 42, 92, 100, 81, 99, 100, 1, 99, 100]
-###Return: 92
+Input: [100, 42, 92, 100, 81, 99, 100, 1, 99, 100]
+Return: 92
 
-###Input: [70, 90, 90, 80, 70, 80]
-###Return: -1
+Input: [70, 90, 90, 80, 70, 80]
+Return: -1
 
 
