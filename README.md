@@ -13,10 +13,10 @@ legenerált e-mail címmel!
 A születési évet ne legyen kötelező megadni, alapértéke legyen 1970!
 Hibakezeléssel nem kell foglalkoznod, feltesszük, hogy a paraméterek helyesek.
 
-##Példa:
+Példa:
 
-###Input: 'Nagy Péter Imre', 1966
-###Return: 'nagpetimr6@kacsa.hu'
+Input: 'Nagy Péter Imre', 1966
+Return: 'nagpetimr6@kacsa.hu'
 
 #2. feladat: Egyszámjáték
 Kati két  barátnőjével egyszámjátékot játszik. Ennek a lényege, hogy mindenki választ magának egy-egy pozitív egész számot, és az nyer, 
